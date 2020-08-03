@@ -6,6 +6,15 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+#tagline{
+    
+}
 
 #container{
     width: 70%;
